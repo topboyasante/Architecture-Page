@@ -1,0 +1,11 @@
+.hero {
+    position: relative;
+    min-height: 100vh;
+    background: url("https://www.build-review.com/wp-content/uploads/2020/01/model-architecture.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.hero-text{
+    min-height: 80vh;
+}
