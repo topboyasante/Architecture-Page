@@ -9,3 +9,17 @@
 .hero-text{
     min-height: 80vh;
 }
+
+.side-image-1{
+    width: 80%;
+    float: left;
+    border-radius: 30px;
+    margin-right: 50px;
+}
+
+.side-image-2{
+    width: 80%;
+    float: right;
+    border-radius: 30px;
+    margin-right: 50px;
+}
